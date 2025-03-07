@@ -16,7 +16,7 @@ const authToken = localStorage.getItem('token');
 async function fetchTransactions(page) {
   try {
     const response = await fetch(
-      `http://localhost:5000/transactions?page=${page}&size=${pageSize}`,
+      `/transactions?page=${page}&size=${pageSize}`,
       {
         method: 'GET',
         credentials: "include",

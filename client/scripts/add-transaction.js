@@ -31,7 +31,7 @@ async function submitTransaction(event) {
 
   try {
     // Send POST request to the API
-    const response = await fetch(' http://localhost:5000/transactions/add', {
+    const response = await fetch('/transactions/add', {
       method: 'POST',
       credentials: "include",
       headers: {

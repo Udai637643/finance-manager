@@ -1,4 +1,4 @@
-const REPORT_API_URL = "http://localhost:5000/reports/generate";
+const REPORT_API_URL = "/reports/generate";
 
 // Fetch report data
 async function fetchReportData(month, year) {
