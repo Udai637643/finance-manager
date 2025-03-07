@@ -7,7 +7,7 @@ Personal Finance Manager is a web application for tracking financial transaction
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/personal-finance-manager.git
+   git clone https://github.com/your-username/personal-finance-manager.git](https://github.com/Udai637643/finance-manager)
    cd personal-finance-manager
    ```
 
