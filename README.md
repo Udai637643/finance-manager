@@ -48,11 +48,18 @@ Personal Finance Manager is a web application for tracking financial transaction
 [Live Application](https://finance-manager-lf1w.onrender.com/client/)
 
 ## 📸 Screenshots
-![Dashboard](screenshots/dashboard.png)
-![Transaction Page](screenshots/transactions.png)
+![Dashboard](https://github.com/user-attachments/assets/35fbe7f7-90f9-4445-80d2-c39d0dcec8aa)
+![Visual Charts](https://github.com/user-attachments/assets/ba2a03a1-778e-4206-b55a-12db5d30461e)
+
+![Transaction Page](https://github.com/user-attachments/assets/0a60a589-7497-4e6e-84cd-fcffde84a280)
+![Add Transaction](https://github.com/user-attachments/assets/b09a423b-fbe6-424a-8fe6-dde794ce022e)
+
 
 ## 🎥 Video Demo
-[![Watch the Demo](https://img.youtube.com/vi/your-video-id/0.jpg)](https://youtu.be/your-video-id)
+[![Watch the Demo](https://github.com/user-attachments/assets/35fbe7f7-90f9-4445-80d2-c39d0dcec8aa)](https://github.com/user-attachments/assets/22bd8519-43b5-490a-a03e-4cbb793db1c6)
+
+
+
 
 ## 🚀 Features
 
