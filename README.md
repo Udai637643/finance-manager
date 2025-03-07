@@ -134,4 +134,4 @@ Personal Finance Manager is a web application for tracking financial transaction
 
 📧 **Contact**: [Udai Lal Regar](udai637643@gmail.com)  
 
-🌐 **Live Demo**: [Live Application](https://your-live-link.com](https://finance-manager-lf1w.onrender.com/client/)
+🌐 **Live Demo**: [Live Application](https://finance-manager-lf1w.onrender.com/client/)
