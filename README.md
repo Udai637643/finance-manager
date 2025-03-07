@@ -45,7 +45,7 @@ Personal Finance Manager is a web application for tracking financial transaction
 ---
 
 ## 🔗 Live Demo
-[Live Application](https://your-live-link.com](https://finance-manager-lf1w.onrender.com/client/)
+[Live Application](https://finance-manager-lf1w.onrender.com/client/)
 
 ## 📸 Screenshots
 ![Dashboard](screenshots/dashboard.png)
