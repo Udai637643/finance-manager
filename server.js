@@ -23,6 +23,10 @@ app.use('/client', express.static('client'))
 
 connectDB();
 
+app.get("/", (req, res) => {
+    res.redirect("/client");
+});
+
 // Routes
 app.use("/auth", authRoutes);
 app.use("/transactions", transactionRoutes);
