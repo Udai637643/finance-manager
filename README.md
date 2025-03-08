@@ -39,6 +39,14 @@ Personal Finance Manager is a web application for tracking financial transaction
 6. **Open frontend**  
    - Open `index.html` in your browser manually  
    - OR use a local server (e.g., Live Server extension in VS Code)
+     
+7. **Run the unit test**  
+   ```bash
+   npm test
+   ```
+   ![Unit test](https://github.com/user-attachments/assets/7b23c936-b8f8-4cdd-96e8-a2d721b0e865)
+
+
 
 🚀 Now your app is ready to use!
 
