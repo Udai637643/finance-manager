@@ -13,7 +13,7 @@ document.getElementById('register-form').addEventListener('submit', async (event
 
     if (response.ok) {
         alert('Registration successful!');
-        window.location.href = 'login.html';
+        window.location.href = '/';
     } else {
         alert('Registration failed! Please try again.');
     }
